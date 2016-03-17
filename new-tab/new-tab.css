@@ -10,7 +10,7 @@ body {
   font-weight : 100;
 }
 body {
-  font-family: 'Electrolize', sans-serif;
+  font-family: sans-serif;
   font-style : normal;
   /*color: #d75f5f;*/
   color: #8e7766;
@@ -20,8 +20,8 @@ input, textarea, select {
   background-color: #111111;
   border: 1px solid #8e7766;
   color : #8e7766;
-  font-family: 'Electrolize', sans-serif;
-  padding: 10px;
+  font-family: sans-serif;
+  padding: 11px;
 }
 td, tr {
   width: 20%;
